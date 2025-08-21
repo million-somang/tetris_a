@@ -1,0 +1,5 @@
+{
+  "name": "React Tetris",
+  "description": "A classic Tetris game built with React and Tailwind CSS. Clear lines to score points, watch the speed increase as you level up, and save your high scores to the leaderboard.",
+  "requestFramePermissions": []
+}
